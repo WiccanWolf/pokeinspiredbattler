@@ -1,0 +1,1 @@
+const pokeBattler = require('../')
